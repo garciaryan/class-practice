@@ -1,0 +1,14 @@
+/*=======UNIVERSALS=======*/
+
+.well-lg {
+  width: 10%;
+  margin: 15px;
+}
+
+.jumbotron {
+  margin: 15px;
+  border: solid 1px #000;
+  border-radius: 5px;
+  padding: 4px;
+  background-color: #fcfbe3;
+}
